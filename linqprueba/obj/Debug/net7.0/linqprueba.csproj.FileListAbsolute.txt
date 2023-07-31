@@ -1,0 +1,15 @@
+C:\Users\luisc\Documents\C#\curso\linqprueba\bin\Debug\net7.0\linqprueba.exe
+C:\Users\luisc\Documents\C#\curso\linqprueba\bin\Debug\net7.0\linqprueba.deps.json
+C:\Users\luisc\Documents\C#\curso\linqprueba\bin\Debug\net7.0\linqprueba.runtimeconfig.json
+C:\Users\luisc\Documents\C#\curso\linqprueba\bin\Debug\net7.0\linqprueba.dll
+C:\Users\luisc\Documents\C#\curso\linqprueba\bin\Debug\net7.0\linqprueba.pdb
+C:\Users\luisc\Documents\C#\curso\linqprueba\obj\Debug\net7.0\linqprueba.csproj.AssemblyReference.cache
+C:\Users\luisc\Documents\C#\curso\linqprueba\obj\Debug\net7.0\linqprueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisc\Documents\C#\curso\linqprueba\obj\Debug\net7.0\linqprueba.AssemblyInfoInputs.cache
+C:\Users\luisc\Documents\C#\curso\linqprueba\obj\Debug\net7.0\linqprueba.AssemblyInfo.cs
+C:\Users\luisc\Documents\C#\curso\linqprueba\obj\Debug\net7.0\linqprueba.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\C#\curso\linqprueba\obj\Debug\net7.0\linqprueba.dll
+C:\Users\luisc\Documents\C#\curso\linqprueba\obj\Debug\net7.0\refint\linqprueba.dll
+C:\Users\luisc\Documents\C#\curso\linqprueba\obj\Debug\net7.0\linqprueba.pdb
+C:\Users\luisc\Documents\C#\curso\linqprueba\obj\Debug\net7.0\linqprueba.genruntimeconfig.cache
+C:\Users\luisc\Documents\C#\curso\linqprueba\obj\Debug\net7.0\ref\linqprueba.dll

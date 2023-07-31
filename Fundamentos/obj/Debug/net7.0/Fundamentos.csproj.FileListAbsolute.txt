@@ -1,0 +1,15 @@
+c:\Users\luisc\Documents\C#\curso\Fundamentos\bin\Debug\net7.0\Fundamentos.exe
+c:\Users\luisc\Documents\C#\curso\Fundamentos\bin\Debug\net7.0\Fundamentos.deps.json
+c:\Users\luisc\Documents\C#\curso\Fundamentos\bin\Debug\net7.0\Fundamentos.runtimeconfig.json
+c:\Users\luisc\Documents\C#\curso\Fundamentos\bin\Debug\net7.0\Fundamentos.dll
+c:\Users\luisc\Documents\C#\curso\Fundamentos\bin\Debug\net7.0\Fundamentos.pdb
+c:\Users\luisc\Documents\C#\curso\Fundamentos\obj\Debug\net7.0\Fundamentos.csproj.AssemblyReference.cache
+c:\Users\luisc\Documents\C#\curso\Fundamentos\obj\Debug\net7.0\Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\luisc\Documents\C#\curso\Fundamentos\obj\Debug\net7.0\Fundamentos.AssemblyInfoInputs.cache
+c:\Users\luisc\Documents\C#\curso\Fundamentos\obj\Debug\net7.0\Fundamentos.AssemblyInfo.cs
+c:\Users\luisc\Documents\C#\curso\Fundamentos\obj\Debug\net7.0\Fundamentos.csproj.CoreCompileInputs.cache
+c:\Users\luisc\Documents\C#\curso\Fundamentos\obj\Debug\net7.0\Fundamentos.dll
+c:\Users\luisc\Documents\C#\curso\Fundamentos\obj\Debug\net7.0\refint\Fundamentos.dll
+c:\Users\luisc\Documents\C#\curso\Fundamentos\obj\Debug\net7.0\Fundamentos.pdb
+c:\Users\luisc\Documents\C#\curso\Fundamentos\obj\Debug\net7.0\Fundamentos.genruntimeconfig.cache
+c:\Users\luisc\Documents\C#\curso\Fundamentos\obj\Debug\net7.0\ref\Fundamentos.dll

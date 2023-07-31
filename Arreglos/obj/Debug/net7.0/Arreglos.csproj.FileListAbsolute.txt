@@ -1,0 +1,15 @@
+c:\Users\luisc\Documents\C#\curso\Arreglos\bin\Debug\net7.0\Arreglos.exe
+c:\Users\luisc\Documents\C#\curso\Arreglos\bin\Debug\net7.0\Arreglos.deps.json
+c:\Users\luisc\Documents\C#\curso\Arreglos\bin\Debug\net7.0\Arreglos.runtimeconfig.json
+c:\Users\luisc\Documents\C#\curso\Arreglos\bin\Debug\net7.0\Arreglos.dll
+c:\Users\luisc\Documents\C#\curso\Arreglos\bin\Debug\net7.0\Arreglos.pdb
+c:\Users\luisc\Documents\C#\curso\Arreglos\obj\Debug\net7.0\Arreglos.csproj.AssemblyReference.cache
+c:\Users\luisc\Documents\C#\curso\Arreglos\obj\Debug\net7.0\Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\luisc\Documents\C#\curso\Arreglos\obj\Debug\net7.0\Arreglos.AssemblyInfoInputs.cache
+c:\Users\luisc\Documents\C#\curso\Arreglos\obj\Debug\net7.0\Arreglos.AssemblyInfo.cs
+c:\Users\luisc\Documents\C#\curso\Arreglos\obj\Debug\net7.0\Arreglos.csproj.CoreCompileInputs.cache
+c:\Users\luisc\Documents\C#\curso\Arreglos\obj\Debug\net7.0\Arreglos.dll
+c:\Users\luisc\Documents\C#\curso\Arreglos\obj\Debug\net7.0\refint\Arreglos.dll
+c:\Users\luisc\Documents\C#\curso\Arreglos\obj\Debug\net7.0\Arreglos.pdb
+c:\Users\luisc\Documents\C#\curso\Arreglos\obj\Debug\net7.0\Arreglos.genruntimeconfig.cache
+c:\Users\luisc\Documents\C#\curso\Arreglos\obj\Debug\net7.0\ref\Arreglos.dll

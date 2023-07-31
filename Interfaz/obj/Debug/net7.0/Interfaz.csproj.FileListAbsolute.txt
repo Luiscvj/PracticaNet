@@ -1,0 +1,15 @@
+C:\Users\luisc\Documents\C#\curso\Interfaz\bin\Debug\net7.0\Interfaz.exe
+C:\Users\luisc\Documents\C#\curso\Interfaz\bin\Debug\net7.0\Interfaz.deps.json
+C:\Users\luisc\Documents\C#\curso\Interfaz\bin\Debug\net7.0\Interfaz.runtimeconfig.json
+C:\Users\luisc\Documents\C#\curso\Interfaz\bin\Debug\net7.0\Interfaz.dll
+C:\Users\luisc\Documents\C#\curso\Interfaz\bin\Debug\net7.0\Interfaz.pdb
+C:\Users\luisc\Documents\C#\curso\Interfaz\obj\Debug\net7.0\Interfaz.csproj.AssemblyReference.cache
+C:\Users\luisc\Documents\C#\curso\Interfaz\obj\Debug\net7.0\Interfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisc\Documents\C#\curso\Interfaz\obj\Debug\net7.0\Interfaz.AssemblyInfoInputs.cache
+C:\Users\luisc\Documents\C#\curso\Interfaz\obj\Debug\net7.0\Interfaz.AssemblyInfo.cs
+C:\Users\luisc\Documents\C#\curso\Interfaz\obj\Debug\net7.0\Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\C#\curso\Interfaz\obj\Debug\net7.0\Interfaz.dll
+C:\Users\luisc\Documents\C#\curso\Interfaz\obj\Debug\net7.0\refint\Interfaz.dll
+C:\Users\luisc\Documents\C#\curso\Interfaz\obj\Debug\net7.0\Interfaz.pdb
+C:\Users\luisc\Documents\C#\curso\Interfaz\obj\Debug\net7.0\Interfaz.genruntimeconfig.cache
+C:\Users\luisc\Documents\C#\curso\Interfaz\obj\Debug\net7.0\ref\Interfaz.dll

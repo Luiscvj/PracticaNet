@@ -1,0 +1,15 @@
+c:\Users\luisc\Documents\C#\curso\Clases\bin\Debug\net7.0\Clases.exe
+c:\Users\luisc\Documents\C#\curso\Clases\bin\Debug\net7.0\Clases.deps.json
+c:\Users\luisc\Documents\C#\curso\Clases\bin\Debug\net7.0\Clases.runtimeconfig.json
+c:\Users\luisc\Documents\C#\curso\Clases\bin\Debug\net7.0\Clases.dll
+c:\Users\luisc\Documents\C#\curso\Clases\bin\Debug\net7.0\Clases.pdb
+c:\Users\luisc\Documents\C#\curso\Clases\obj\Debug\net7.0\Clases.csproj.AssemblyReference.cache
+c:\Users\luisc\Documents\C#\curso\Clases\obj\Debug\net7.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\luisc\Documents\C#\curso\Clases\obj\Debug\net7.0\Clases.AssemblyInfoInputs.cache
+c:\Users\luisc\Documents\C#\curso\Clases\obj\Debug\net7.0\Clases.AssemblyInfo.cs
+c:\Users\luisc\Documents\C#\curso\Clases\obj\Debug\net7.0\Clases.csproj.CoreCompileInputs.cache
+c:\Users\luisc\Documents\C#\curso\Clases\obj\Debug\net7.0\Clases.dll
+c:\Users\luisc\Documents\C#\curso\Clases\obj\Debug\net7.0\refint\Clases.dll
+c:\Users\luisc\Documents\C#\curso\Clases\obj\Debug\net7.0\Clases.pdb
+c:\Users\luisc\Documents\C#\curso\Clases\obj\Debug\net7.0\Clases.genruntimeconfig.cache
+c:\Users\luisc\Documents\C#\curso\Clases\obj\Debug\net7.0\ref\Clases.dll

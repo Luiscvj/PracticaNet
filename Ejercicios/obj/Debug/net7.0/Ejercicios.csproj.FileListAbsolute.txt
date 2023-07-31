@@ -1,0 +1,15 @@
+c:\Users\luisc\Documents\C#\curso\Ejercicios\bin\Debug\net7.0\Ejercicios.exe
+c:\Users\luisc\Documents\C#\curso\Ejercicios\bin\Debug\net7.0\Ejercicios.deps.json
+c:\Users\luisc\Documents\C#\curso\Ejercicios\bin\Debug\net7.0\Ejercicios.runtimeconfig.json
+c:\Users\luisc\Documents\C#\curso\Ejercicios\bin\Debug\net7.0\Ejercicios.dll
+c:\Users\luisc\Documents\C#\curso\Ejercicios\bin\Debug\net7.0\Ejercicios.pdb
+c:\Users\luisc\Documents\C#\curso\Ejercicios\obj\Debug\net7.0\Ejercicios.csproj.AssemblyReference.cache
+c:\Users\luisc\Documents\C#\curso\Ejercicios\obj\Debug\net7.0\Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\luisc\Documents\C#\curso\Ejercicios\obj\Debug\net7.0\Ejercicios.AssemblyInfoInputs.cache
+c:\Users\luisc\Documents\C#\curso\Ejercicios\obj\Debug\net7.0\Ejercicios.AssemblyInfo.cs
+c:\Users\luisc\Documents\C#\curso\Ejercicios\obj\Debug\net7.0\Ejercicios.csproj.CoreCompileInputs.cache
+c:\Users\luisc\Documents\C#\curso\Ejercicios\obj\Debug\net7.0\Ejercicios.dll
+c:\Users\luisc\Documents\C#\curso\Ejercicios\obj\Debug\net7.0\refint\Ejercicios.dll
+c:\Users\luisc\Documents\C#\curso\Ejercicios\obj\Debug\net7.0\Ejercicios.pdb
+c:\Users\luisc\Documents\C#\curso\Ejercicios\obj\Debug\net7.0\Ejercicios.genruntimeconfig.cache
+c:\Users\luisc\Documents\C#\curso\Ejercicios\obj\Debug\net7.0\ref\Ejercicios.dll
